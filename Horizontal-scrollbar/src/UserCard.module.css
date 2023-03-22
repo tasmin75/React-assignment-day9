@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.CardBoxes{
+    margin: 10rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: scroll;
+    padding: 1rem;
+}
+.CardBoxes::-webkit-scrollbar {
+    display: none;
+}
