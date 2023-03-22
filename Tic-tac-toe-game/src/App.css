@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.App{
+  text-align: center;
+}
+
+.btn{
+  display: flex;
+  padding: 10px 20px;
+  background-color: #333;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  margin: 10px;
+  transition: all 0.3s ease;
+  margin-left: 20rem;
+}
